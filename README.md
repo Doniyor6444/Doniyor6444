@@ -15,6 +15,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
 
 #### **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
@@ -27,6 +28,13 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)  
+
+#### **Libraries & Tools**  
+![PDF.js](https://img.shields.io/badge/-PDF.js-FFB900?style=flat&logo=adobe&logoColor=black)  
+![Swiper.js](https://img.shields.io/badge/-Swiper.js-6332F6?style=flat&logo=swiper&logoColor=white)  
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 #### **DevOps & Other Tools**  
 ![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat&logo=pm2&logoColor=white)  
@@ -44,9 +52,11 @@
 ---
 
 ### 📫 Contact Me  
-📧 **Email:** [ddeveloper7771@gmail.com](mailto:your.email@example.com)   
+📧 **Email:** [ddeveloper7771@gmail.com](mailto:your.email@example.com)  
+💼 **LinkedIn:** [linkedin.com/in/DoniyorRustamov](https://www.linkedin.com/)  
 📱 **Telegram:** [@doni_ac](https://t.me/doni_ac)  
 
 ---
+
 
 🚀 **"Never stop learning, never stop building – innovation starts with curiosity!"**  
