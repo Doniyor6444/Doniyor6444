@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Doniyor Rustamov! 👋</h1>  
+<h1 align="center">Hi there, I'm Doniyor Rustamov! 👋 </h1>  
 <h3 align="center">🚀 Passionate Full-Stack Developer | Node.js & MERN Stack Enthusiast</h3>  
 
 <p align="center">
