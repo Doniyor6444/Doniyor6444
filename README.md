@@ -29,16 +29,16 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)  
 
 #### **Libraries & Tools**  
-![PDF.js](https://img.shields.io/badge/-PDF.js-FFB900?style=flat&logo=adobe&logoColor=black)  
-![Swiper.js](https://img.shields.io/badge/-Swiper.js-6332F6?style=flat&logo=swiper&logoColor=white)  
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)  
+![Swiper.js](https://img.shields.io/badge/-Swiper.js-6332F6?style=flat&logo=swiper&logoColor=white)  
+![PDF.js](https://img.shields.io/badge/-PDF.js-FFB900?style=flat&logo=adobe&logoColor=black)  
 
 #### **DevOps & Other Tools**  
-![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat&logo=pm2&logoColor=white)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)  
+![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat&logo=pm2&logoColor=white)  
 
 ---
 
