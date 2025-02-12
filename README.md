@@ -52,7 +52,7 @@
 
 ### 📫 Contact Me  
 📧 **Email:** [ddeveloper7771@gmail.com](mailto:your.email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/DoniyorRustamov](https://www.linkedin.com/)  
+💼 **LinkedIn:** [linkedin.com/indoniyorrustamov](www.linkedin.com/in/doniyorrustamov)  
 📱 **Telegram:** [@doni_ac](https://t.me/doni_ac)  
 
 ---
