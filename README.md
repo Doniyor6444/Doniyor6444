@@ -49,16 +49,16 @@
 
 ### 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doniyor6444&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor6444&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Doniyor6444&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor6444&layout=compact&theme=default" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doniyor6444&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doniyor6444&theme=github" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=gray&style=flat" alt="Profile Views" />
 </p>
 
 ---
