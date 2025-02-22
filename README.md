@@ -58,11 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Doniyor6444&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Doniyor6444&count_bg=%2358A6FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doniyor6444&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" alt="GitHub Streak Stats" />
 </p>
 
 ---
