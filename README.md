@@ -58,6 +58,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Doniyor6444&theme=dark&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&border_color=30363D" alt="Contribution Activity" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=58A6FF&style=flat" alt="Profile Views" />
 </p>
 
