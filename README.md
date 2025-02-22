@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Backend+Developer;Pentester;Always+Learning+New+Things;Turning+Ideas+into+Reality;Building+Secure+and+Scalable+Systems" />
 </p>  
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=58A6FF&style=flat" alt="Profile Views" />  
+  <img src="https://img.shields.io/github/followers/Doniyor6444?label=Followers&style=flat&color=58A6FF" alt="GitHub Followers" />
+</p>
+
 ---
 
 ### 🛠️ **Technologies & Tools**
@@ -66,10 +71,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doniyor6444&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=58A6FF&style=flat" alt="Profile Views" />  
-  <img src="https://img.shields.io/github/followers/Doniyor6444?label=Followers&style=flat&color=58A6FF" alt="GitHub Followers" />
-</p>
 
 ---
 
