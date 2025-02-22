@@ -1,3 +1,12 @@
+<h1 align="center">Hi there, I'm Doniyor Rustamov! 👋 </h1>  
+<h3 align="center">🚀 Passionate Full-Stack Developer | Node.js & MERN Stack Enthusiast</h3>  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Backend+Developer;Pentester;Always+Learning+New+Things;Turning+Ideas+into+Reality;Building+Secure+and+Scalable+Systems" />
+</p>  
+
+---
+
 ### 🛠️ **Technologies & Tools**
 
 #### **Frontend Development**  
@@ -44,3 +53,39 @@
   <img src="https://img.shields.io/badge/-PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
+---
+
+### 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Doniyor6444&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_color=30363D" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor6444&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&border_color=30363D" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doniyor6444&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=58A6FF&style=flat" alt="Profile Views" />  
+  <img src="https://img.shields.io/github/followers/Doniyor6444?label=Followers&style=flat&color=58A6FF" alt="GitHub Followers" />
+</p>
+
+---
+
+### 📫 **Let's Connect**  
+<p align="center">
+  <a href="mailto:ddeveloper7771@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/doniyorrustamov/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/doni_ac">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+🚀 **"Never stop learning, never stop building – innovation starts with curiosity!"**
