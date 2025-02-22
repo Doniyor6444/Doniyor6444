@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Full-Stack Developer | Node.js & MERN Stack Enthusiast</h3>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Backend+Developer;Pentester;Always+Learning+New+Things;Turning+Ideas+into+Reality;Building+Secure+and+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Backend+Developer;Pentester;Always+Learning+New+Things;Turning+Ideas+into+Reality;" />
 </p>
 
 ---
