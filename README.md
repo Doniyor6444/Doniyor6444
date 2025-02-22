@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Doniyor6444&theme=dark&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&border_color=30363D" alt="Contribution Activity" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Doniyor6444&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
