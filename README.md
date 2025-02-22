@@ -49,16 +49,16 @@
 
 ### 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doniyor6444&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor6444&layout=compact&theme=default" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Doniyor6444&show_icons=true&theme=dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_color=30363D" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor6444&layout=compact&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&border_color=30363D" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doniyor6444&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doniyor6444&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=gray&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=58A6FF&style=flat" alt="Profile Views" />
 </p>
 
 ---
