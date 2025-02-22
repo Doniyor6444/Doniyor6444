@@ -1,61 +1,72 @@
-<h1 align="center">Hi there, I'm Doniyor Rustamov! 👋 </h1>  
-<h3 align="center">🚀 Passionate Full-Stack Developer | Node.js & MERN Stack Enthusiast</h3>  
+<h1 align="center">👋 Hi, I'm Doniyor Rustamov</h1>
+<h3 align="center">Full-Stack Developer | Node.js & MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Backend+Developer;Cybersecurity+Learner;Always+Learning+New+Things" />
-</p>  
-
----
-
-### 🛠 Technologies & Tools  
-#### **Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
-
-#### **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
-![Coa.js](https://img.shields.io/badge/-Coa.js-339933?style=flat&logo=node.js&logoColor=white)  
-
-#### **Databases**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)  
-
-#### **Libraries & Tools**  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)  
-![Swiper.js](https://img.shields.io/badge/-Swiper.js-6332F6?style=flat&logo=swiper&logoColor=white)  
-![PDF.js](https://img.shields.io/badge/-PDF.js-FFB900?style=flat&logo=adobe&logoColor=black)  
-
-#### **DevOps & Other Tools**  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)  
-![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat&logo=pm2&logoColor=white)  
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doniyor6444&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor6444&layout=compact&theme=radical" height="150"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+scalable+web+apps;Exploring+cybersecurity;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📫 Contact Me  
-📧 **Email:** [ddeveloper7771@gmail.com](mailto:your.email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/doniyorrustamov](https://www.linkedin.com/in/doniyorrustamov/)  
-📱 **Telegram:** [@doni_ac](https://t.me/doni_ac)  
+### 🛠️ **Tech Stack**
+#### **Frontend**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+#### **Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Doniyor6444&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor6444&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
 
-🚀 **"Never stop learning, never stop building – innovation starts with curiosity!"**  
+---
+
+### 🌟 **Featured Projects**
+- **[Project 1](https://github.com/Doniyor6444/project1)** - A brief description of the project.
+- **[Project 2](https://github.com/Doniyor6444/project2)** - Another brief description.
+- **[Project 3](https://github.com/Doniyor6444/project3)** - Yet another brief description.
+
+---
+
+### 📫 **Let's Connect**
+<p align="center">
+  <a href="https://www.linkedin.com/in/doniyorrustamov/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/doni_ac">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:ddeveloper7771@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  🚀 <em>"Code is poetry. Build with passion, learn with curiosity."</em> 🚀
+</p>
