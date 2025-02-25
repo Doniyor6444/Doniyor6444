@@ -67,6 +67,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/Doniyor6444/Doniyor6444/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 
 
