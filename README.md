@@ -67,8 +67,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Doniyor6444/Doniyor6444/blob/output/snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://skyline.github.com/Doniyor6444/2024" alt="GitHub Skyline 3D" />
 </p>
+
 
 
 
