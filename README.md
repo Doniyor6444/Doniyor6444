@@ -67,8 +67,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doniyor6444&show_icons=true&theme=radical" />
+  <img src="https://github.com/rahul-jha98/rahul-jha98/raw/main/assets/terminal.gif" />
 </p>
+
 
 
 
