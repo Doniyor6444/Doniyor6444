@@ -68,7 +68,7 @@
 
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api?username=Doniyor6444" alt="GitHub Contributions Calendar" />
+  <img src="https://raw.githubusercontent.com/Doniyor6444/Doniyor6444/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 
