@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doniyor6444&theme=radical&background=0A0F24&border=00FFFF&stroke=00A2FF&ring=0077FF&fire=00CCFF&currStreakNum=FFFFFF&sideNums=00BFFF&currStreakLabel=00A2FF&sideLabels=00CCFF&dates=CCCCCC" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Doniyor6444&show_icons=true&theme=chartreuse-dark&bg_color=0A0F24&text_color=FFFFFF&icon_color=00FFFF&border_color=00A2FF" alt="GitHub Stats" />
 </p>
 
 
