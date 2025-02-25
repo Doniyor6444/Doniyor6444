@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Doniyor6444&show_icons=true&theme=chartreuse-dark&bg_color=0A0F24&text_color=FFFFFF&icon_color=00FFFF&border_color=00A2FF" alt="GitHub Stats" />
+  <img src="https://github.com/Doniyor6444/Doniyor6444/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 
