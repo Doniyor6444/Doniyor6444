@@ -67,8 +67,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doniyor6444&theme=dark&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF" alt="GitHub Streak Stats" />
-</p> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doniyor6444&theme=radical&background=0A0F24&border=00FFFF&stroke=00A2FF&ring=0077FF&fire=00CCFF&currStreakNum=FFFFFF&sideNums=00BFFF&currStreakLabel=00A2FF&sideLabels=00CCFF&dates=CCCCCC" alt="GitHub Streak Stats" />
+</p>
+
 
 
 ---
