@@ -64,10 +64,8 @@
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
-
-### 📈 My GitHub Activity  
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Doniyor6444&theme=react-dark)
-
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=Doniyor6444&color=brightgreen)
 
 ---
 
