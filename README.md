@@ -65,9 +65,8 @@
   </a>
 </p>
 
-
-### 🏙️ My GitHub Skyline  
-![GitHub Skyline](https://skyline.github.com/Doniyor6444/2024.png)
+### 📈 My GitHub Activity  
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Doniyor6444&theme=react-dark)
 
 
 ---
