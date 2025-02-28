@@ -1,0 +1,21 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Har kuni avtomatik ishga tushadi
+  workflow_dispatch:  # Qo'lda ishga tushirish uchun
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.actor }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Push generated files
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-game
+          path: dist/github-contribution-grid-snake.svg
