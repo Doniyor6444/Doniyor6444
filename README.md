@@ -65,6 +65,11 @@
   </a>
 </p>
 
+
+### 🏙️ My GitHub Skyline  
+![GitHub Skyline](https://skyline.github.com/Doniyor6444/2024.png)
+
+
 ---
 
 🚀 **"Never stop learning, never stop building – innovation starts with curiosity!"**
