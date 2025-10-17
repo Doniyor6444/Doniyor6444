@@ -1,5 +1,5 @@
 <h1 align="center">Doniyor Rustamov 👋</h1>  
-<h3 align="center">Software Engineer · Backend & Security-Focused Systems</h3>
+<h3 align="center">Software Engineer · Systems & Security</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=2f81f7&style=flat-square" alt="Profile Views" />  
@@ -44,7 +44,7 @@ I keep learning, analyzing, and defending — not just as a profession, but as a
 
 #### ⚙️ Algorithms & Data Structures
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cplusplus" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,cplusplus" />
 </p>
 - Problem-Solving (LeetCode, HackerRank)  
 - Complexity Analysis (Big O, Optimization Mindset)  
