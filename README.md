@@ -1,5 +1,5 @@
 <h1 align="center">Doniyor Rustamov 👋</h1>  
-<h3 align="center">Full-Stack Developer · Node.js & MERN Stack · Backend Focused</h3>
+<h3 align="center">Software Engineer · Backend & Infrastructure · Focused on System Reliability and Security</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=2f81f7&style=flat-square" alt="Profile Views" />  
@@ -43,7 +43,7 @@ That’s why I keep learning, analyzing, and defending — not just as a profess
 
 #### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,nginx,linux,notion,ubuntu,arch, algorithm" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,nginx,notion,linux,ubuntu,arch,network" />
 </p>
 
 #### 🧪 Other Libraries & Utilities
