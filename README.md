@@ -43,7 +43,7 @@ That’s why I keep learning, analyzing, and defending — not just as a profess
 
 #### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,nginx,linux,notion,ubuntu,arch" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,nginx,linux,notion,ubuntu,arch, algorithm" />
 </p>
 
 #### 🧪 Other Libraries & Utilities
