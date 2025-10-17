@@ -1,5 +1,5 @@
 <h1 align="center">Doniyor Rustamov 👋</h1>  
-<h3 align="center">Software Engineer · Backend & Infrastructure · Focused on System Reliability and Security</h3>
+<h3 align="center">Software Engineer · Backend & Security-Focused Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=2f81f7&style=flat-square" alt="Profile Views" />  
@@ -9,14 +9,15 @@
 ---
 
 ### 🧠 About Me  
-I’m a software engineer driven by curiosity for how systems truly work.
-My focus lies in building reliable, efficient backend architectures and understanding every layer of the stack — from logic to infrastructure.
+I’m a software engineer driven by curiosity about how systems truly work.  
+My focus lies in building reliable backend architectures and understanding every layer — from logic to infrastructure.  
 
-My long-term mission is to stand at the intersection of software engineering and cybersecurity.
-I believe that real security begins with understanding creation: how software is built, how data moves, and how vulnerabilities emerge.
+My mission is to stand at the intersection of software engineering and cybersecurity.  
+Real security begins with understanding how software is created, how data moves, and where vulnerabilities arise.  
 
-Technology is just a tool — critical thinking is the real weapon.
-That’s why I keep learning, analyzing, and defending — not just as a profession, but as a mindset.
+Technology is just a tool — critical thinking is the real weapon.  
+I keep learning, analyzing, and defending — not just as a profession, but as a mindset.  
+
 ---
 
 ### ⚙️ Tech Stack
@@ -41,6 +42,13 @@ That’s why I keep learning, analyzing, and defending — not just as a profess
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
 </p>
 
+#### ⚙️ Algorithms & Data Structures
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cplusplus" />
+</p>
+- Problem-Solving (LeetCode, HackerRank)  
+- Complexity Analysis (Big O, Optimization Mindset)  
+
 #### 🧰 Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,nginx,notion,linux,ubuntu,arch" />
@@ -49,7 +57,7 @@ That’s why I keep learning, analyzing, and defending — not just as a profess
 #### 🧪 Other Libraries & Utilities
 - Swiper.js  
 - PDF.js  
-- PM2 (process manager)  
+- PM2 (Process Manager)  
 
 ---
 
@@ -76,4 +84,4 @@ That’s why I keep learning, analyzing, and defending — not just as a profess
 
 ---
 
-<p align="center"><strong>"Never stop learning, never stop building — innovation starts with curiosity."</strong></p>
+<p align="center"><strong>"Understand systems. Build wisely. Defend relentlessly."</strong></p>
