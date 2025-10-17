@@ -10,8 +10,10 @@
 
 ### 🧠 About Me  
 I’m a passionate full-stack developer specializing in backend development using **Node.js** and **Express.js**.  
-I enjoy writing scalable APIs, optimizing database queries, and exploring system-level programming in **C++**.  
-Always learning, building, and securing — because real engineering never ends.
+I love writing scalable APIs, optimizing database performance, and digging into **system-level programming with C++**.  
+
+My long-term goal is to become a **cybersecurity engineer** who deeply understands how systems are built — and how to protect them.  
+I believe true security starts from knowing how things work under the hood: code, networks, and infrastructure.  
 
 ---
 
@@ -19,7 +21,7 @@ Always learning, building, and securing — because real engineering never ends.
 
 #### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php" />
 </p>
 
 #### 🔙 Backend
