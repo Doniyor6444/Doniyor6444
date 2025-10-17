@@ -44,10 +44,12 @@ I keep learning, analyzing, and defending — not just as a profession, but as a
 
 #### ⚙️ Algorithms & Data Structures
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,python,cplusplus" />
+  <img src="https://skillicons.dev/icons?i=javascript,cpp,python" />
 </p>
+
 - Problem-Solving (LeetCode, HackerRank)  
 - Complexity Analysis (Big O, Optimization Mindset)  
+- Data Structures: Trees, Graphs, Hashmaps, Heaps  
 
 #### 🧰 Tools & Platforms
 <p align="left">
