@@ -9,12 +9,14 @@
 ---
 
 ### 🧠 About Me  
-I’m a passionate full-stack developer specializing in backend development using **Node.js** and **Express.js**.  
-I love writing scalable APIs, optimizing database performance, and digging into **system-level programming with C++**.  
+I’m a software engineer driven by curiosity for how systems truly work.
+My focus lies in building reliable, efficient backend architectures and understanding every layer of the stack — from logic to infrastructure.
 
-My long-term goal is to become a **cybersecurity engineer** who deeply understands how systems are built — and how to protect them.  
-I believe true security starts from knowing how things work under the hood: code, networks, and infrastructure.  
+My long-term mission is to stand at the intersection of software engineering and cybersecurity.
+I believe that real security begins with understanding creation: how software is built, how data moves, and how vulnerabilities emerge.
 
+Technology is just a tool — critical thinking is the real weapon.
+That’s why I keep learning, analyzing, and defending — not just as a profession, but as a mindset.
 ---
 
 ### ⚙️ Tech Stack
@@ -41,7 +43,7 @@ I believe true security starts from knowing how things work under the hood: code
 
 #### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,nginx,linux,notion" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,nginx,linux,notion,ubuntu,arch" />
 </p>
 
 #### 🧪 Other Libraries & Utilities
