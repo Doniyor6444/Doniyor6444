@@ -12,7 +12,7 @@
 I’m a software engineer driven by curiosity about how systems truly work.  
 My focus lies in building reliable backend architectures and understanding every layer — from logic to infrastructure.  
 
-My mission is to stand at the intersection of software engineering and cybersecurity.  
+My mission is to stand at the intersection of software engineering and cybersecurity.   
 Real security begins with understanding how software is created, how data moves, and where vulnerabilities arise.  
 
 Technology is just a tool — critical thinking is the real weapon.  
