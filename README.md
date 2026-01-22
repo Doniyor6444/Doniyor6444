@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/Doniyor6444?label=Followers&style=flat-square&color=2f81f7" alt="GitHub Followers" />
 </p>
 
----
+--- 
 
 ### 🧠 About Me  
 I’m a software engineer driven by curiosity about how systems truly work.  
