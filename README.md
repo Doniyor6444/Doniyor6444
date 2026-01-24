@@ -31,7 +31,7 @@ I keep learning, analyzing, and defending — not just as a profession, but as a
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-
+ 
 #### 🗄️ Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" />
@@ -68,7 +68,7 @@ I keep learning, analyzing, and defending — not just as a profession, but as a
   <img src="https://github-readme-stats.vercel.app/api?username=Doniyor6444&show_icons=true&theme=github_dark&hide_border=true&title_color=2f81f7&icon_color=2f81f7" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor6444&layout=compact&theme=github_dark&hide_border=true&title_color=2f81f7" width="48%" />
 </p>
-
+ 
 ---
 
 ### 🌐 Connect With Me
