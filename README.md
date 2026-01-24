@@ -59,7 +59,7 @@ I keep learning, analyzing, and defending — not just as a profession, but as a
 #### 🧪 Other Libraries & Utilities
 - Swiper.js  
 - PDF.js  
-- PM2 (Process Manager)  
+- PM2 (Process Manager)   
 
 ---
 
