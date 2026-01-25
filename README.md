@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · Systems & Security</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=2f81f7&style=flat-square" alt="Profile Views" />  
+  <img src="https://komarev.com/ghpvc/?username=Doniyor6444&color=2f81f7&style=flat-square" alt="Profile Views" />   
   <img src="https://img.shields.io/github/followers/Doniyor6444?label=Followers&style=flat-square&color=2f81f7" alt="GitHub Followers" />
 </p>
 
