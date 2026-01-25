@@ -24,7 +24,7 @@ I keep learning, analyzing, and defending — not just as a profession, but as a
 
 #### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,golang" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,golang" />
 </p>
 
 #### 🔙 Backend
@@ -44,7 +44,7 @@ I keep learning, analyzing, and defending — not just as a profession, but as a
 
 #### ⚙️ Algorithms & Data Structures
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,cpp,python,golang" />
+  <img src="https://skillicons.dev/icons?i=javascript,cpp,golang" />
 </p>
 
 - Problem-Solving (LeetCode, HackerRank)  
