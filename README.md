@@ -39,7 +39,7 @@ I keep learning, analyzing, and defending — not just as a profession, but as a
 
 #### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
 #### ⚙️ Algorithms & Data Structures
