@@ -44,7 +44,7 @@ I keep learning, analyzing, and defending — not just as a profession, but as a
 
 #### ⚙️ Algorithms & Data Structures
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,cpp,golang" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,golang" />
 </p>
 
 - Problem-Solving (LeetCode, HackerRank)  
