@@ -18,7 +18,7 @@ Real security begins with understanding how software is created, how data moves,
 Technology is just a tool — critical thinking is the real weapon.  
 I keep learning, analyzing, and defending — not just as a profession, but as a mindset.  
 
----
+--- 
 
 ### ⚙️ Tech Stack
 
