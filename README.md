@@ -29,7 +29,7 @@ I keep learning, analyzing, and defending — not just as a profession, but as a
 
 #### 🔙 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express, nest" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
  
 #### 🗄️ Databases
