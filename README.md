@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Doniyor+Rustamov;Software+Engineer+(Backend);Building+Scalable+Systems" alt="Typing SVG" />
 </a>
-
+ 
 <p align="center">
   <b>Architecting robust APIs, working with databases, and optimizing system performance.</b>
 </p>
