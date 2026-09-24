@@ -39,7 +39,7 @@
 <!-- Eng yuqori sifatli (premium) ikonkalar to'plami -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,cpp,bash,nodejs,express,nestjs,typeorm,prism,postgres,mysql,sqlite,mongodb,mysql,sqlite,linux,ubuntu,nginx,git,github,swagger,postman,html,css,bootstrap&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go,bash,nodejs,express,nestjs,postgres,mongodb,mysql,linux,ubuntu,nginx,git,github,docker,aws,postman&perline=10" alt="Tech Stack" />
   </a>
 </p>
 
