@@ -5,9 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Doniyor+Rustamov;Backend+%26+Cloud+Systems+Engineer;Golang+%7C+Node.js+%7C+AWS+%7C+Docker" alt="Typing SVG" />
   </a>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1200&color=00F5D4&center=true&vCenter=true&width=750&lines=Doniyor+Rustamov;Backend+%26+Cloud+Systems+Engineer;Building+High-Performance+Distributed+Architectures;Solving+Complex+Algorithmic+Problems" alt="Typing SVG" />
-  </a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
   <p align="center">
     <b>Architecting robust distributed backends, mastering cloud infrastructure, and solving algorithmic challenges.</b>
