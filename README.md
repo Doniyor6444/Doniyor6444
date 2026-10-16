@@ -70,5 +70,5 @@
 ---
 
 <div align="center">
-  <sub><i>"First, solve the problem. Then, write the code."</i></sub>
+  <sub><i>"First, solve the problem. Then, write the code. "</i></sub>
 </div>
